@@ -53,7 +53,6 @@ CyInstagramBreaker es una herramienta que automatiza el despliegue de un servido
 <p align="center">
   <img src="Phishing Versión Móvil.png" alt="Foto 2" width="300"/>
   <img src="Phishing Versión MAC.png" alt="Foto 2" width="300"/>
-  <img src="Visor MacBookAir.png" alt="Foto 2" width="300"/>
 </p>
 
 <h2 align="center">Viewer Final con Contraseñas de las Victimas</h2>
