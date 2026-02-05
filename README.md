@@ -56,7 +56,7 @@ CyInstagramBreaker es una herramienta que automatiza el despliegue de un servido
 
 <h2 align="center">Viewer Final con Contraseñas de las Victimas</h2>
 <p align="center">
-  <img src="Visor de Registros.png" alt="Foto 3" width="500"/>
+  <img src="Visor de Registros.png" alt="Foto 3" width="800"/>
 </p>
 
 
