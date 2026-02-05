@@ -108,7 +108,7 @@ CyInstagramBreaker es una herramienta que automatiza el despliegue de un servido
 
 ---
 
-## ⚙️ 1 Instalación básica con clonado 🐧 Linux 
+## ⚙️ 1. Instalación básica con clonado 🐧 Linux 
 
 ```bash
 git clone https://github.com/cyberiuscompany/CyInstagramBreaker.git
