@@ -49,7 +49,7 @@ CyInstagramBreaker es una herramienta que automatiza el despliegue phishing de I
   <img src="Panel Principal de la Herramienta.png" alt="Foto 1" width="800"/>
 </p>
 
-<h2 align="center">Visores Falsos para Victimas</h2>
+<h2 align="center">Visor Falsos para Victimas</h2>
 <p align="center">
   <img src="Phishing Versión Móvil.png" alt="Foto 2" width="300"/>
 </p>
