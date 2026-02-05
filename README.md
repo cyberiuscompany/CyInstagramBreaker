@@ -37,7 +37,7 @@ CyInstagramBreaker es una herramienta que automatiza el despliegue de un servido
 ## 🎥 Demostración
 
 <p align="center">
-  <img src="docs/Demo.gif" width="1200" alt="Demostración de CyberiusUnzipCracker">
+  <img src="Demo.gif" width="1200" alt="Demostración de CyberiusUnzipCracker">
 </p>
 
 ---
