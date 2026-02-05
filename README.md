@@ -24,7 +24,7 @@
 
 # CyInstagramBreaker
 
-CyInstagramBreaker es una herramienta que automatiza el despliegue de un servidor PHP local junto con un túnel público de Cloudflare, permitiendo exponer una página web de forma temporal para pruebas de concienciación en seguridad, auditorías internas y demostraciones educativas.
+CyInstagramBreaker es una herramienta que automatiza el despliegue phishing de Instagram sin 2F2 con un servidor PHP local junto con un túnel público de Cloudflare, permitiendo exponer una página web de forma temporal para pruebas de concienciación en seguridad, auditorías internas y demostraciones educativas.
 
 ---
 
