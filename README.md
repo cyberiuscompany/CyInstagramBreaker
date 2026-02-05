@@ -60,12 +60,6 @@ CyInstagramBreaker es una herramienta que automatiza el despliegue de un servido
 </p>
 
 
-## Descripción
-
-**NOMBRE-HERRAMIENTA** es una herramienta.....RELLENAR. 
-
-Diseñada con un enfoque de ciberseguridad para......RELLENAR.
-
 ## 🚀 Funcionalidades principales
 
 - 🔥 Lanzador automático en Python
