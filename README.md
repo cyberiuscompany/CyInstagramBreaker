@@ -23,12 +23,9 @@
 </p>
 
 # Plantilla
-Este es la plantilla que utilizo para la creación de mis proyectos/herramientas de ciberseguridad
 
-Esplicación que hace la herramienta.
+CyInstagramBreaker es una herramienta que automatiza el despliegue de un servidor PHP local junto con un túnel público de Cloudflare, permitiendo exponer una página web de forma temporal para pruebas de concienciación en seguridad, auditorías internas y demostraciones educativas.
 
-- GitHub Pages si la herramienta tiene: https://cyberiuscompany.github.io/NOMBRE-HERRAMIENTA
-- DeepWiki de la herramienta: https://deepwiki.com/RELLENAR+INDEXAR
 ---
 
 <p align="center">
@@ -71,22 +68,37 @@ Diseñada con un enfoque de ciberseguridad para......RELLENAR.
 
 ## 🚀 Funcionalidades principales
 
-- RELLENAR.
-- RELLENAR.
-- RELLENAR.
+- 🔥 Lanzador automático en Python
+- 🌍 Exposición pública mediante Cloudflare Tunnel
+- 📡 Detección automática de IP local
+- 📊 Panel visor de accesos en tiempo real
+- 🧾 Registro de IPs y User-Agents
+- 🖥️ Compatible con Linux
+- 🧪 Ideal para laboratorios de ciberseguridad
 
 ## 🧰 Tecnologías utilizadas
 
-- RELLENAR.
-- RELLENAR.
-- RELLENAR.
+- Cloudflare Tunnel (cloudflared)
+- Linux (entorno objetivo)
+- Python 3
+- PHP
+- HTML / CSS
 
 ## 📁 Estructura del proyecto
 
 ```bash
-├── fichero.py # Función Principal
-├── fichero.js # Función Principal
-├── fichero.html # Función Principal
+├── lanzador.py          # Lanzador principal (Python)
+├── login.html           # Página de login simulada
+├── login.php            # Procesamiento de datos
+├── ip.php               # Logger de IPs
+├── visor.php            # Visor de registros
+├── cloudflared          # Binario de Cloudflare Tunnel
+├── index.php            # Página principal
+├── index_files/         # Recursos web
+├── icono.png
+├── DISCLAIMER.md
+├── LICENCE
+└── README.md
 ```
 ---
 
@@ -102,37 +114,13 @@ Diseñada con un enfoque de ciberseguridad para......RELLENAR.
 
 ---
 
-## ⚙️ 1.1 Instalación básica con clonado 🪟 Windows
+## ⚙️ 1 Instalación básica con clonado 🐧 Linux 
 
 ```bash
-git clone..........
-cd NOMBRE-HERRAMIENTA
-python -m venv venv (No es obligatorio este comando)
-.\venv\Scripts\activate (No es obligatorio este comando)
-pip install -r requirements.txt
-python NOMBRE-HERRAMIENTA
-```
-
-## ⚙️ 1.2 Instalación básica con clonado 🐧 Linux / macOS
-
-```bash
-git clone..........
-cd NOMBRE-HERRAMIENTA
+git clone https://github.com/cyberiuscompany/CyInstagramBreaker.git
+cd CyInstagramBreaker
 python3 -m venv venv (No es obligatorio este comando)
 source venv/bin/activate (No es obligatorio este comando)
-pip install -r requirements.txt
-python3 NOMBRE-HERRAMIENTA
-```
-
-## ⚙️ 2 Instalación como si fuese paquete profesional
-
-```bash
-git clone..........
-cd NOMBRE-HERRAMIENTA
-python3 -m venv venv (No es obligatorio este comando)
-source venv/bin/activate (No es obligatorio este comando)
-pip install -r requirements.txt
-pip install .
-NOMBRE-HERRAMIENTA
+python3 lanzador.py
 ```
 
